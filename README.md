@@ -1,14 +1,4 @@
 👨‍💻 Luis Alberto
-📋 Tabla de Contenido
-Conocimientos
-
-Proyecto Principal: La Gotita H2O
-
-Base de Datos
-
-Tecnologías Usadas
-
-Contacto
 
 📚 Conocimientos
 Lenguajes y Frameworks
