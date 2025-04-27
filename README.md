@@ -39,7 +39,7 @@
 
 ## 🚀 Proyecto Principal
 
-**(Inserta aquí una imagen válida de tu proyecto)**
+![Imagen de WhatsApp 2025-04-26 a las 18 55 32_12f57952](https://github.com/user-attachments/assets/ca56e54e-9664-4bf3-868a-203346f879fc)
 
 ```markdown
 <div align="center">
