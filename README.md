@@ -40,11 +40,11 @@
 
 <div align="center">
   
-## 🚀 Proyecto Principal: La Gotita H2O
+## 🚀 Proyecto Principal: GotitaPos (Punto de venta)
 
 </div>
 
-<p align="center"><em>Sistema integral de gestión de ventas y control de inventario para purificadoras de agua</em></p>
+<p align="center"><em>Sistema integral de gestión de ventas y control de inventario para purificadoras de agua donde trabajo</em></p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f80b0211-4f15-4063-92a8-ab2ca606b80d" alt="Proyecto Principal" width="600px"/>
