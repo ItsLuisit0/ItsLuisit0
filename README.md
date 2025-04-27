@@ -2,7 +2,7 @@
 
 # 👨‍💻 Luis Alberto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://github.com/luisalberto)
+
 
 </div>
 
