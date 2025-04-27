@@ -4,11 +4,7 @@
 
 
 
-</div>
 
----
-
-<div align="center">
   
 ## 📚 Conocimientos Técnicos
 
