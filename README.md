@@ -45,13 +45,7 @@ Caja, MovimientoCaja
 
 Venta, DetalleVenta, Ticket
 
-Ejemplo de consulta SQL:
-sql
-Copiar
-Editar
-SELECT p.id, p.nombre, p.precioUnitario, c.nombre AS categoria
-FROM Producto p
-JOIN Categoria c ON p.categoria_id = c.id;
+
 💡 Tecnologías Usadas
 Backend: PHP (API REST), XAMPP, MySQL
 
