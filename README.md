@@ -22,9 +22,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-## Herramientas de Desarrollo
+## Proyecto Principal
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+  <img src="![Imagen de WhatsApp 2025-04-26 a las 18 55 32_987b2f7e](https://github.com/user-attachments/assets/848f7317-79a3-4d13-857a-6a1cb632513a)
+"/>
+ 
 </div>
+
+
+
