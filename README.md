@@ -10,29 +10,7 @@ Frontend
 Sistema integral de gestión de ventas y control de inventario para purificadoras de agua.
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/f80b0211-4f15-4063-92a8-ab2ca606b80d" alt="Proyecto Principal" width="600px"/> </div>
-🗃️ Base de Datos
-El sistema utiliza una base de datos en MySQL, diseñada para gestionar procesos clave como:
 
-Administración
-
-Gestión de empleados
-
-Control de clientes
-
-Gestión de productos e inventario
-
-Administración de caja
-
-Procesamiento de ventas y emisión de tickets
-
-Tablas principales:
-Administrador, Empleado, Cliente
-
-Producto, Categoria, Inventario
-
-Caja, MovimientoCaja
-
-Venta, DetalleVenta, Ticket
 
 💡 Tecnologías Usadas
 <div align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/> </div>
