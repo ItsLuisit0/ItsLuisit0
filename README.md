@@ -1,66 +1,30 @@
-# ¡Hola! 👋 Soy Luis
+# 👨‍💻 Tech Stack
 
-### Desarrollador Full Stack con experiencia en múltiples tecnologías
+## Lenguajes & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tuperfil)
-[![GitHub Followers](https://img.shields.io/github/followers/ItsLuisit0?label=Follow&style=social)](https://github.com/ItsLuisit0)
+## Bases de Datos
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-## 🛠 Stack Tecnológico Principal
+## Frontend & Estilos
+<div align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
-**Lenguajes y Frameworks:**
-- ![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
-- ![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?logo=javascript)
-- ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react)
-- ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php)
-
-**Bases de Datos:**
-- ![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?logo=mysql)
-- ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql)
-
-**Frontend:**
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-06B6D4?logo=tailwind-css)
-- ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?logo=css3)
-
-## 🔭 Actualmente trabajando en
-
-- Desarrollo de aplicaciones empresariales con Java Spring Boot
-- Proyectos personales con React y Tailwind CSS
-- Automatización de procesos con Python
-
-## 🌱 Actualmente aprendiendo
-
-- Arquitecturas de microservicios
-- Optimización de consultas SQL avanzadas
-- Patrones de diseño en React
-
-## 💼 Experiencia Relevante
-
-**Java:**
-- Desarrollo de sistemas backend para gestión empresarial
-- Aplicaciones Android con Java/Kotlin
-- Microservicios con Spring Boot
-
-**Python:**
-- Scripts de automatización
-- Análisis de datos con Pandas
-- APIs con Flask/Django
-
-**Web:**
-- Aplicaciones React con Tailwind CSS
-- Integraciones con APIs REST
-- Desarrollo de componentes reutilizables
-
-## 📫 Cómo contactarme
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail)](mailto:tucorreo@ejemplo.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/tuusuario)
-
-## ⚡ Dato curioso
-
-¡Cuando no estoy programando, me gusta [tus hobbies/intereses]!
-
----
-
-⭐️ De [ItsLuisit0](https://github.com/ItsLuisit0)
+## Herramientas
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+</div>
